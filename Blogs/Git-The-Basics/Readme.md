@@ -17,12 +17,12 @@ In today’s world, multiple developers merge their work for the best results an
 
 You might want to familiarize yourself with a few terms before going further on the detailed learning of git. The terms are: - 
 •	GitHub: - This is a website that hosts your repositories online. Many people might get confused about this term, but it is just a service that holds your code in repositories. And by its name, we can guess that it is the hub for git. As a matter of fact, this is the largest open-source codebase for all the users around the world. 
-•	Repository: - This is a folder or a place where your project is stored.
-•	Directory: - This is a term we use instead of a folder in the world of programming. 
-•	Terminal: - Also known as command line, this is an interface for your text commands.
-•	CLI: - This is the Command Line Interface.
-•	Cd: - This simply means change directory.
-•	Code Editor: - A code editor is a word processor where you can write codes. The widely used editor these days is Visual Code Studio or VS Code. 
+1.	Repository: - This is a folder or a place where your project is stored.
+2.	Directory: - This is a term we use instead of a folder in the world of programming. 
+3.	Terminal: - Also known as command line, this is an interface for your text commands.
+4.	CLI: - This is the Command Line Interface.
+5.	Cd: - This simply means change directory.
+6.	Code Editor: - A code editor is a word processor where you can write codes. The widely used editor these days is Visual Code Studio or VS Code. 
 These terms help a lot when you are on your way to learning git in a more detailed way. They are frequently used and when it comes to learning and using git, you have no other options but to learn them by heart.
 
 
