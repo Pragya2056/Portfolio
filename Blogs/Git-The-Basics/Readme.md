@@ -88,4 +88,5 @@ It is the private key you need to store sgit ecurely in your local machine. It c
 b)	testkey.pub
 It is the public key you upload on your GitHub interface. It can be generated only with the help of your private key. It can be printed out with the command line “cat testkey.pub”. You can add the key by copying it from there to the GitHub account you have and then your local git command-line interface will know about the key you generated. 
 
+## Conclusion
 Git is nothing but a system to help you track your code from time to time without losing what you did earlier and with a provision that lets you improvise the code according to your need. 
