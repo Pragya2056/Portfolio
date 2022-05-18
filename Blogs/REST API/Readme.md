@@ -27,29 +27,29 @@ Apart from these features, there are six architectural constraints of the REST A
 5.	Layered System
 6.	Code on Demand
 Among these six constraints, the first five are never to be disturbed because even if we try to violate just one, it will no longer fall under the RESTful system. However, the last one, Code on Demand is an optional constraint of REST API. It will be better if it is there, but it will still be the RESTful system if it is violated in some way. Let’s see all these points one by one in brief.
-1.	Uniform Interface
+1.	Uniform Interface -
 The first one is the Uniform Interface which is a key principle that can differentiate between a REST API and a Non-REST API. This states that despite the type of device or an application, it should have a uniform way of interacting with the given server. It is further categorized into four guidelines: -
-a)	Resource-Based
+a)	Resource-Based -
 This states that the individual resources here are identified in requests.
-b)	Manipulation of Resources through Representation
+b)	Manipulation of Resources through Representation -
 This states that a client has the representation of resources that has about enough information to make some changes (Modify or Delete) the resource on the server if you have the permission to do so. 
-c)	Self-descriptive messages
+c)	Self-descriptive messages -
 As the heading suggests itself, each message comes with enough information so that the server can easily analyze the request without looking up the process. 
-d)	HATEOAS
+d)	HATEOAS -
 HATEOAS or Hypermedia as the Engine of Application State tells us that we need to include links for each response on the server so that a client can realize the other resource with the least effort. 
-2.	Stateless
+2.	Stateless -
 Further, the next constraint is stateless which means all the required states to look over the request is included within the request itself. The server will not store anything that relates to any of the request sessions. 
-3.	Cacheable
+3.	Cacheable -
 Next, we have cacheable which specifies that each response should include whether it is cacheable or not. It also mentions the durations for which the responses can be cached on the client-side. This results in high performance because the resources are saved in the cache memory and returned very fast. 
-4.	Client-Server Architecture
+4.	Client-Server Architecture -
 As mentioned earlier, the RESTful system should have a client-server architecture. 
 
 ![Client-server architecture](https://miro.medium.com/max/1050/1*NU34CAD64ToUf0GP5ekKxQ.jpeg)
 
-5.	Layered System
+5.	Layered System -
 Any application architecture should always be in multiple layers. The more the layers, the more stable and secure the architecture is. Multiple layers limit the component behavior while also enabling load behaving which makes it very stable. They also provide shared caches that promote scalability. 
 Moreover, the application security is very high because of the multiple layers because a layer can only communicate with its immediate layer and none of the other layers. 
-6.	Code on Demand (optional)
+6.	Code on Demand (optional) -
 Finally, there is Code on Demand which I mentioned earlier about being an optional constraint of the REST API. This states that the servers can provide executable code to the client for them to make changes. For Examples - Java applets and client-side scripts like JavaScript. 
 After the principles of REST API, we now move on to understanding how the HTTP protocols are used in the Interface. We can send a proper HTTP code in the REST API which indicates a success or error status. 
 As we know, we commonly use the CRUD operations for the protocol. Let’s see “What is CRUD?”
