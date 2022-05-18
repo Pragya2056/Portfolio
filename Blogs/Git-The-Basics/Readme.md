@@ -1,4 +1,5 @@
 ## Git: The Basics
+![git](https://miro.medium.com/max/1050/1*UjMzWwfJ9wvcy5dFZTWqpw.jpeg)
 
 
 ### Introduction
