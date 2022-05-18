@@ -84,7 +84,7 @@ It will then show the default file for the SSH key.
 You can use the “ls | grep testkey” command line in your terminal which will show you your keys. There are two keys: - 
 
 a)	testkey 
-It is the private key you need to store securely in your local machine. It connects your GitHub since it uses your account via your local machine. 
+It is the private key you need to store sgit ecurely in your local machine. It connects your GitHub since it uses your account via your local machine. 
 b)	testkey.pub
 It is the public key you upload on your GitHub interface. It can be generated only with the help of your private key. It can be printed out with the command line “cat testkey.pub”. You can add the key by copying it from there to the GitHub account you have and then your local git command-line interface will know about the key you generated. 
 
