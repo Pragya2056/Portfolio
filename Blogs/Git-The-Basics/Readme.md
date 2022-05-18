@@ -1,4 +1,4 @@
-### Git: The Basics
+## Git: The Basics
 
 
 ### Introduction
@@ -71,7 +71,7 @@ Git config –global fetch.prune true
 .gitignore
 
 
-## SSH Keys
+### SSH Keys
 
 These are the keys you can generate locally with the SSH-keygen command and then specify the types of encryption, the strength of encryption, and your GitHub email. 
 This should look something like this: - 
@@ -79,7 +79,7 @@ ssh-keygen -t rsa -b 4096 -c “GitHub email_id”
 It will then show the default file for the SSH key. 
 
 
-## To search the generated key
+### To search the generated key
 
 You can use the “ls | grep testkey” command line in your terminal which will show you your keys. There are two keys: - 
 
@@ -88,5 +88,5 @@ It is the private key you need to store sgit ecurely in your local machine. It c
 b)	testkey.pub
 It is the public key you upload on your GitHub interface. It can be generated only with the help of your private key. It can be printed out with the command line “cat testkey.pub”. You can add the key by copying it from there to the GitHub account you have and then your local git command-line interface will know about the key you generated. 
 
-## Conclusion
+### Conclusion
 Git is nothing but a system to help you track your code from time to time without losing what you did earlier and with a provision that lets you improvise the code according to your need. 
