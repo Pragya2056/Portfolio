@@ -105,7 +105,8 @@ For example, if you want to install the Morgan package that logs HTTP requests, 
 
 The above command not only installs the morgan package but adds a new devDependencies section to the package.json file. You can view it in the file as: - 
 
-````"devDependencies":{
+````
+    "devDependencies":{
     "morgan":"^1.10.0"
     }
 ````
