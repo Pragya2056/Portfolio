@@ -1,12 +1,12 @@
 ## Wordpress.com: Should we choose this over wordpress.org?
-***
+![wordpress.com](https://miro.medium.com/max/1050/1*WZmI9vNd2c0kJAV80RZZIA.jpeg)
 
 
 We hear about two similar but different terms – wordpress.com vs wordpress.org. We need to familiarize ourselves with both to spare any confusion between them. Hence, we will discuss the first topic wordpress.com in this article. 
 Wordpress.com is a hosting service created by Automattic, a company led by WordPress co-founder Matt Mullenweg. This would be a good choice for those hobby bloggers who just need up to 3GB of storage space and don’t really care about monetizing the site. 
 There are several plans available to build a site from wordpress.com. The table below has the list of the plans you can choose from according to your need.
 
-***
+![worpress.com plans](https://miro.medium.com/max/1050/1*9W_vlm50JuD42g6abZpFhQ.png)
 
 ### Why choose wordpress.com?
 
@@ -23,12 +23,12 @@ There are several plans available to build a site from wordpress.com. The table 
 •	Wordpress.com restrict you from their stats. You can’t use Google Analytics or any other tracking platforms. Except for the Business Plan, because it can use Google Analytics as well. 
 •	A free wordpress.com looks like this,
 
-***
+![free wordpress.com site](https://miro.medium.com/max/1050/1*iT2R2aCFDeYGiXKFqJ-0og.png)
 
 This is not a standard one because there is wordpress.com in your site address. 
 You can remove this by using a paid plan, 
 
-***
+![paid wordpress.com site](https://miro.medium.com/max/1050/1*XtuWa3GqtLgQABGi7b6pOQ.png)
 
 •	Your site can be deleted at any time if they think it violates their terms of service. 
 •	The e-commerce website costs you $540 per year and that is a bit much for a starter. There is no free site plan with e-commerce features and integrated payment gateways. 

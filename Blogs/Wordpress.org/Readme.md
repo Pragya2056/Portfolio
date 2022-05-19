@@ -1,5 +1,5 @@
 ## Wordpress.org: The Real WordPress
-***
+![wordpress.org](https://miro.medium.com/max/1050/1*3l3BTkxBEcfNddJoCLBSSg.jpeg)
 
 
 We have heard two similar terms – WordPress.com and WordPress.org many times. We have been confused and thus have chosen the wrong one for our use. Keeping that issue in mind, we discussed WordPress.com in my previous article, and in this one, we are going to talk about the other one – WordPress.org. 
