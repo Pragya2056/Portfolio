@@ -105,9 +105,9 @@ For example, if you want to install the Morgan package that logs HTTP requests, 
 
 The above command not only installs the morgan package but adds a new devDependencies section to the package.json file. You can view it in the file as: - 
 
-#### `"devDependencies":{`
-#### `"morgan":"^1.10.0"`
-#### `}`
+````"devDependencies":{
+    "morgan":"^1.10.0"
+    }````
 
 The packages we use as the devDependencies are not installed when we use an optional production flag. For example, linters is a package we use for enforcing clean code but is not required in production. 
 While we are on the topic, the npm install with production uses the following command:
