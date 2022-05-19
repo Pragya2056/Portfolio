@@ -157,16 +157,20 @@ Further, you will notice a package-lock.json file that describes the dependency 
 When you run npm install with arguments, it downloads everything from the before specified location to the original node_modules directory at the project root. There will be no new node_modules folder inside the sub-directory but thy will be hoisted to the node_modules folder at the root of the project directory. 
 Moving on, npm install can run with git as well. For this example, let’s take Vows, a Node.js testing framework that can be installed from git alongside its single dependency – eyes. 
 
-#### `git clone http://github.com/cloudhead/vows`
-#### `cd vows`
-#### `npm install`
+```
+git clone http://github.com/cloudhead/vows
+cd vows
+npm install
+```
 
 Now, let’s see how you can share your own software in the npm registry. You can just sign in at the [npm registry](www.npmjs.com) website. 
 
 Further, navigating to your project and publishing this project can be done like this: 
 
-#### `c:\users\myuser>cd myproject`
-#### `c:\users\myproject>npm publish`
+```
+c:\users\myuser>cd myproject
+c:\users\myproject>npm publish
+```
 
 ### Security Concerns
 
