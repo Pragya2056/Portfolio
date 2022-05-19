@@ -107,7 +107,8 @@ The above command not only installs the morgan package but adds a new devDepende
 
 ````"devDependencies":{
     "morgan":"^1.10.0"
-    }````
+    }
+````
 
 The packages we use as the devDependencies are not installed when we use an optional production flag. For example, linters is a package we use for enforcing clean code but is not required in production. 
 While we are on the topic, the npm install with production uses the following command:
