@@ -31,9 +31,11 @@ It isn’t a compulsion to login in the registry, but you can still do it if you
 
 If you are not logged in and you want to, use the following command: - 
 
-#### `npm login`
-#### `username: <username>`
-#### `password: <password>`
+```
+npm login
+username: <username>
+password: <password>
+```
 
 ### package.json?
 
@@ -91,9 +93,11 @@ When the installation is completed, there will be a new directory called /node_m
 If you don’t know the name of the package, you can search for them on the npm website. 
 Next, if you visit the package.json file, you can see that the dependencies section is updated. 
 
-#### `"dependencies":{`
-#### `"express":^4.17.1"`
-#### `}`
+```
+"dependencies":{
+"express":^4.17.1"
+}
+```
 
 You can also download the packages as a development dependency. This means that the package will run only in the development environment. Where your application will not work without the dependencies packages, the devDependencies will be only there during your developing period. For this, you need to use the following command: - 
 
