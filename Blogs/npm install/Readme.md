@@ -155,9 +155,7 @@ Moving on, npm install can run with git as well. For this example, let’s take 
 #### `cd vows`
 #### `npm install`
 
-Now, let’s see how you can share your own software in the npm registry. You can just sign in at the following website: 
-
-[npm registry](www.npmjs.com)
+Now, let’s see how you can share your own software in the npm registry. You can just sign in at the [npm registry](www.npmjs.com) website: 
 
 Further, navigating to your project and publishing this project can be done like this: 
 
