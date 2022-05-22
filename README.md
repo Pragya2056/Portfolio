@@ -11,3 +11,5 @@ Some articles I wrote for myself for a easy study. You can check them out as the
 4. wordpress.com 
 
 5. wordpress.org
+
+6. wordpress.com VS wordpress.org
