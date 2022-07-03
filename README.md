@@ -2,7 +2,7 @@
 
 Some articles I wrote for myself for a easy study. 
 
-They are available on my Medium account named [Pragya Sapkota](https://medium.com/@pragyasapkota) account. 
+They are available on my Medium account named [Pragya Sapkota](https://medium.com/@pragyasapkota). 
 
 You can check them out as the list below in the folder blogs where each topic is separated and briefed inside their individual  readme file. 
 
@@ -19,3 +19,7 @@ You can check them out as the list below in the folder blogs where each topic is
 6. wordpress.com VS wordpress.org
 
 7. HTTPS: Is it better than HTTP?
+
+Please feel free to throw in any kind of feedback or comments.
+
+Thank you!!!
