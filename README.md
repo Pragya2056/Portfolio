@@ -7,7 +7,7 @@ They are available on my Medium account named [Pragya Sapkota](https://medium.co
 You can also check them out as the list below in the folder blogs where each topic is separated and briefed inside their individual readme file. 
 
 You can either browse them manually or click the individual links respectively. 
-If you wish to open these in a new tab, Press `CTRL + Click`
+If you wish to open these in a new tab, Press `CTRL + click`
 
 1. [Git: The Basics](https://github.com/Pragya2056/Portfolio/tree/master/Blogs/Git-The-Basics)
 
