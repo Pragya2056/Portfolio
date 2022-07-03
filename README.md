@@ -2,7 +2,7 @@
 
 Some articles I wrote for myself for a easy study. 
 
-They are available on my [[Medium](https://medium.com/@pragyasapkota)] account. 
+They are available on my Medium account named [Pragya Sapkota](https://medium.com/@pragyasapkota) account. 
 
 You can check them out as the list below in the folder blogs where each topic is separated and briefed inside their individual  readme file. 
 
