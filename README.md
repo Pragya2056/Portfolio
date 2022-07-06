@@ -23,6 +23,8 @@ If you wish to open these in a new tab, Press `CTRL + click`
 
 7. [HTTPS: Is it better than HTTP?](https://github.com/Pragya2056/Portfolio/tree/master/Blogs/HTTPS)
 
+8. [Network Protocols]()
+
 Please feel free to throw in any kind of feedback or comments.
 
 Thank you!!!
