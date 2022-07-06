@@ -43,7 +43,7 @@ You will need a $300 per year Business plan if you plan on introducing membershi
 
 
 ### 10.	Maintenance
-You must maintain your whole site manually and yourself if you use wordpress.org. This includes site updates, regular backups, and SPAM control options. This is a lot of work that needs to be done regularly. But if you choose wordpress.com, the site will be automatically updated, and the backups will be taken care of as well. In addition, the optimization and other tasks will also be well maintained. So, you will need to go to wordpress.com if you need to have an auto-maintained website. 
+You must maintain your whole site manually and yourself if you use wordpress.org. This includes site updates, regular backups, and SPAM control options. This is a lot of work that needs to be done regularly. But if you choose wordpress.com, the site will be automatically updated, and the backups will be taken care of as well. In addition, the optimization and other tasks will also be well maintained. So, you will need to go to `wordpress.com` if you need to have an auto-maintained website. 
 
 
 ## Conclusion 
